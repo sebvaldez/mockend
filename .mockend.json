@@ -1,5 +1,9 @@
 {
-  "id": 1,
-  "title": "mocktest",
-  "body": "mock body"
+    "Posts": [
+        {
+            "id": 1,
+            "title": "mocktest",
+            "body": "mock body"
+        }
+    ]
 }
